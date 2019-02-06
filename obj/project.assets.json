@@ -27909,24 +27909,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emieux\\.nuget\\packages\\": {},
+    "C:\\Users\\Rousset\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SUPINFO\\3WIN\\ClickerProject\\ClickerProject\\ClickerProject.csproj",
+      "projectUniqueName": "C:\\Users\\Rousset\\Desktop\\Clicker Projet\\ClickerProject.csproj",
       "projectName": "ClickerProject",
-      "projectPath": "D:\\SUPINFO\\3WIN\\ClickerProject\\ClickerProject\\ClickerProject.csproj",
-      "packagesPath": "C:\\Users\\Emieux\\.nuget\\packages\\",
-      "outputPath": "D:\\SUPINFO\\3WIN\\ClickerProject\\ClickerProject\\obj\\",
+      "projectPath": "C:\\Users\\Rousset\\Desktop\\Clicker Projet\\ClickerProject.csproj",
+      "packagesPath": "C:\\Users\\Rousset\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rousset\\Desktop\\Clicker Projet\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Emieux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rousset\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
