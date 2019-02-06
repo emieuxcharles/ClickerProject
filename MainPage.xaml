@@ -9,6 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Clic" HorizontalAlignment="Left" Margin="162,356,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBlock Name="txbClicker" HorizontalAlignment="Left" Margin="258,362,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

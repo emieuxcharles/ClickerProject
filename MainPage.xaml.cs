@@ -26,5 +26,14 @@ namespace ClickerProject
         {
             this.InitializeComponent();
         }
+        int c = 0;
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            c++;
+
+            txbClicker.Text = c.ToString();
+            
+        }
     }
 }
