@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\App.xbf
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\MainPage.xbf
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\ClickerProject.xr.xml
@@ -218,3 +219,14 @@ D:\SUPINFO\3WIN\ClickerProject\ClickerProject\obj\x86\Debug\MultipleQualifiersPe
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\obj\x86\Debug\resources.en-us.resfiles
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\obj\x86\Debug\resources.en-us.resfiles.intermediate
 D:\SUPINFO\3WIN\ClickerProject\ClickerProject\obj\x86\Debug\ProjectArchitectures.txt
+=======
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\App.g.i.cs
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\App.g.cs
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\MainPage.g.cs
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\App.xaml
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\MainPage.xaml
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\App.xbf
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\MainPage.xbf
+C:\Users\Rousset\Desktop\Clicker Projet\obj\x86\Debug\XamlSaveStateFile.xml
+>>>>>>> Stashed changes
