@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
@@ -22,9 +23,29 @@ namespace ClickerProject
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        #region var
+        float score = 0;
+        int cBonus1 = 0;
+        #endregion
+
+
+
         public MainPage()
         {
             this.InitializeComponent();
+        }
+        
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            score++;
+            txbClicker.Text = score.ToString();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            cBonus1++;
+            txbNbBonus1.Text = cBonus1.ToString();
+            
         }
     }
 }
