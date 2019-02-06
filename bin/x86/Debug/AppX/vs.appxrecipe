@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T14:25:24.240</Modified>
+      <Modified>2019-02-06T15:20:38.224</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\ClickerProject.exe">
       <PackagePath>entrypoint\ClickerProject.exe</PackagePath>
-      <Modified>2019-02-06T14:25:23.700</Modified>
+      <Modified>2019-02-06T15:20:37.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -538,11 +538,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-02-06T14:25:23.512</Modified>
+      <Modified>2019-02-06T15:20:37.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-02-06T14:25:23.514</Modified>
+      <Modified>2019-02-06T15:20:37.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -554,7 +554,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\SUPINFO\3WIN\ClickerProject\ClickerProject\bin\x86\Debug\Core\ClickerProject.exe">
       <PackagePath>ClickerProject.exe</PackagePath>
-      <Modified>2019-02-06T14:25:24.228</Modified>
+      <Modified>2019-02-06T15:20:38.210</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
