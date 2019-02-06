@@ -48,5 +48,7 @@ namespace ClickerProject
             txbNbBonus1.Text = cBonus1.ToString();
             
         }
+
+
     }
 }
